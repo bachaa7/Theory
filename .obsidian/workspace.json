@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "8778acede0f8f021",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6f8c2ae0c5f388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba1dd2d49a2d989d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1da7079c981a3014",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68d642abd9bd0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d420b9099fd71d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8428408b4679d6cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3436c9f9e5c2c23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e82805bc0d65d4dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec80f0504007bc15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24c9574487250fd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "102ad4097a58f9d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aaf0ac4df1c8a56a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30ec1652acea1d17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ba1dd2d49a2d989d",
+  "lastOpenFiles": [
+    "Стек/Практика.md",
+    "Стек/Определение(статья).md",
+    "Pasted image 20240614195133.png",
+    "стекк 2.jpeg",
+    "стекк 1.jpeg",
+    "стекк.jpeg",
+    "Методы Поиска/Последовательный (линейный) поиск.md",
+    "Методы Поиска/Двоичный(бинарный) поиск.md",
+    "Методы Поиска/Определение.md",
+    "Welcome.md",
+    "Photo/Pasted image 20240612141232.png",
+    "Photo/Pasted image 20240612141151.png",
+    "Photo/Pasted image 20240612141141.png",
+    "Photo/Pasted image 20240612141129.png",
+    "Photo/Pasted image 20240612141120.png",
+    "Сортировки/Определение.md",
+    "Методы Поиска",
+    "Стек",
+    "Вектор",
+    "Массивы",
+    "Сортировки/Сортировка вставками.md",
+    "Сортировки/Сортировка методом Quicksort(быстрая сортировка).md",
+    "Сортировки/Сортировка методом простого выбора (Selection sort).md",
+    "Сортировки/Метод пузырька (простого обмена).md",
+    "Photo",
+    "Photo/Pasted image 20240612000430.png",
+    "Сортировки"
+  ]
+}
